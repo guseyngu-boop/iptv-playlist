@@ -1,0 +1,2047 @@
+﻿#EXTM3U
+# MEGA IPTV FINAL 2026
+# WORLD ULTRA + Азербайджан + Турция + 18+ Light
+# Собрано: 2026-08-13
+# Точные дубли потоков удалены по URL.
+# Некоторые каналы могут иметь Geo-ограничения или временно менять адрес.
+
+#EXTINF:-1 tvg-id="360.ru@SD" group-title="🇷🇺 Россия",360° HD
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+
+#EXTINF:-1 tvg-id="Afontovo.ru@SD" group-title="🇷🇺 Россия",Афонтово
+https://stream.afontovo.ru/hd.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru@HD" group-title="🇷🇺 Россия",Россия 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="🇷🇺 Россия",Россия 24
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru@HD" group-title="🇷🇺 Россия",Россия-К / Культура HD
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru@HD" group-title="🇷🇺 Россия",НТВ HD
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVVitrina.ru@SD" group-title="🇷🇺 Россия",НТВ Витрина
+https://cdn.ntv.ru/vitrina/index.m3u8
+
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="🇷🇺 Россия",Москва 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" group-title="🇷🇺 Россия",Москва Доверие
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" group-title="🇷🇺 Россия",Санкт-Петербург HD
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru@HD" group-title="🇷🇺 Россия",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="🇷🇺 Россия",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru@HD" group-title="🇷🇺 Россия",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir24.ru@SD" group-title="🇷🇺 Россия",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moymir.ru@SD" group-title="🇷🇺 Россия",Мой мир
+https://moymir.ru/hls/onair.m3u8
+
+#EXTINF:-1 tvg-id="Pro100TV.ru@SD" group-title="🇷🇺 Россия",Про100 ТВ
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
+#EXTINF:-1 tvg-id="ProBusiness.ru@SD" group-title="🇷🇺 Россия",Про Бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" group-title="🇷🇺 Россия",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+
+#EXTINF:-1 tvg-id="Radio1.ru@SD" group-title="🇷🇺 Россия",Радио 1
+https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" group-title="🇷🇺 Россия",Соловьёв Live
+https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="🇷🇺 Россия",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spas.ru@SD" group-title="🇷🇺 Россия",Спас
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VestiFM.ru@HD" group-title="🇷🇺 Россия",Вести FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
+
+#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="🇷🇺 Россия",Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Astrahan24.ru@SD" group-title="🇷🇺 Россия",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" group-title="🇷🇺 Россия",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belgorod24.ru@SD" group-title="🇷🇺 Россия",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+
+#EXTINF:-1 tvg-id="BST.ru@SD" group-title="🇷🇺 Россия",БСТ 24 Братск
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+
+#EXTINF:-1 tvg-id="Vera24.ru@SD" group-title="🇷🇺 Россия",Вера 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Volga.ru@SD" group-title="🇷🇺 Россия",Волга HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Volgograd24.ru@SD" group-title="🇷🇺 Россия",Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" group-title="🇷🇺 Россия",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurasia.ru@SD" group-title="🇷🇺 Россия",Евразия Орск
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+
+#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="🇷🇺 Россия",Енисей
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Izvestia.ru@SD" group-title="🇷🇺 Россия",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedLine.ru@SD" group-title="🇷🇺 Россия",Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+
+#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="🇷🇺 Россия",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+
+#EXTINF:-1 tvg-id="Legendarnyy24.ru@SD" group-title="🇷🇺 Россия",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+
+#EXTINF:-1 tvg-id="Millet.ru@SD" group-title="🇷🇺 Россия",Миллет
+https://live1.1tvcrimea.ru/milletlive.m3u8
+
+#EXTINF:-1 tvg-id="PerviyKrymskiy.ru@SD" group-title="🇷🇺 Россия",Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+
+#EXTINF:-1 tvg-id="Prima.ru@SD" group-title="🇷🇺 Россия",Прима
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="🇷🇺 Россия",РБК-ТВ
+http://online-video.rbc.ru/online2/rbctv.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="🇷🇺 Россия",РБК Санкт-Петербург
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+
+#EXTINF:-1 tvg-id="S1.ru@SD" group-title="🇷🇺 Россия",С1 Сургут
+https://sitv.ru/hls/stv.m3u8
+
+#EXTINF:-1 tvg-id="SamaraGIS.ru@SD" group-title="🇷🇺 Россия",Самара ГИС
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sever.ru@SD" group-title="🇷🇺 Россия",Север Нарьян-Мар
+https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Simferopol24.ru@SD" group-title="🇷🇺 Россия",Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+
+#EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="🇷🇺 Россия",Сочи 24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Soyuz.ru@SD" group-title="🇷🇺 Россия",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVK.ru@SD" group-title="🇷🇺 Россия",ТВК 24
+https://air.tvk6.ru/tvk24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="86.ru@SD" group-title="🇷🇺 Россия",Телеканал 86 Сургут
+https://sitv.ru/hls/s86.m3u8
+
+#EXTINF:-1 tvg-id="Telplus.ru@SD" group-title="🇷🇺 Россия",Телплюс ТВ Астрахань
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TKR.ru@SD" group-title="🇷🇺 Россия",ТКР Рязань
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="🇷🇺 Россия",Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlusTV.by@SD" group-title="🇧🇾 Беларусь",+TV
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus1.by@HD" group-title="🇧🇾 Беларусь",Беларусь 1 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus2.by@HD" group-title="🇧🇾 Беларусь",Беларусь 2 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus3.by@HD" group-title="🇧🇾 Беларусь",Беларусь 3 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus4.by@Vitebsk" group-title="🇧🇾 Беларусь",Беларусь 4 Витебск
+https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus24.by@HD" group-title="🇧🇾 Беларусь",Беларусь 24 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" group-title="🇧🇾 Беларусь",Первый информационный HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioMir.by@SD" group-title="🇧🇾 Беларусь",Радио Мир TV
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STV.by@HD" group-title="🇧🇾 Беларусь",СТВ HD
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" group-title="🇧🇾 Беларусь",Первый Музыкальный Канал HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-id="1Plus1International.ua@HD" group-title="🇺🇦 Украина",1+1 International HD
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1Plus1Marafon.ua@SD" group-title="🇺🇦 Украина",1+1 Марафон
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel11.ua@SD" group-title="🇺🇦 Украина",11 Канал
+https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.ua@SD" group-title="🇺🇦 Украина",24 Канал
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="366TV.ua@SD" group-title="🇺🇦 Украина",36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArmyTV.ua@SD" group-title="🇺🇦 Украина",Army TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+
+#EXTINF:-1 tvg-id="ATR.ua@SD" group-title="🇺🇦 Украина",ATR
+https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Avers.ua@SD" group-title="🇺🇦 Украина",Avers
+https://avers.pp.ua/hls/efir.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ua@SD" group-title="🇺🇦 Украина",5 Канал
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD" group-title="🇺🇦 Украина",7 Канал Украина
+https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cherniveckiypromin.ua@SD" group-title="🇺🇦 Украина",Чернівецький промінь
+https://langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 tvg-id="Dacha.ua@SD" group-title="🇺🇦 Украина",Дача
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DIM.ua@SD" group-title="🇺🇦 Украина",ДОМ
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DniproTV.ua@SD" group-title="🇺🇦 Украина",Дніпро TV
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EkoTV.ua@SD" group-title="🇺🇦 Украина",Еко TV
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" group-title="🇺🇦 Украина",Еспресо TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" group-title="🇺🇦 Украина",FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+#EXTINF:-1 tvg-id="GIT.ua@SD" group-title="🇺🇦 Украина",GIT
+https://stream.uagit.tv/gittv.m3u8
+
+#EXTINF:-1 tvg-id="IUAtv.ua@SD" group-title="🇺🇦 Украина",I-UA.tv
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+
+#EXTINF:-1 tvg-id="InterPlus.ua@SD" group-title="🇺🇦 Украина",Интер+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRT.ua@SD" group-title="🇺🇦 Украина",IRT
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+
+#EXTINF:-1 tvg-id="Islandia.ua@SD" group-title="🇺🇦 Украина",Islandia
+https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITV.ua@SD" group-title="🇺🇦 Украина",ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IzmailTV.ua@SD" group-title="🇺🇦 Украина",Измаил TV
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="K2.ua@SD" group-title="🇺🇦 Украина",K2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KvartalTVInternational.ua@SD" group-title="🇺🇦 Украина",Kvartal TV International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kyiv.ua@SD" group-title="🇺🇦 Украина",Київ
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+
+#EXTINF:-1 tvg-id="MyUkrainaPlus.ua@SD" group-title="🇺🇦 Украина",Моя Україна+
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+
+#EXTINF:-1 tvg-id="NTN.ua@SD" group-title="🇺🇦 Украина",НТН
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTV.ua@SD" group-title="🇺🇦 Украина",OTV
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
+
+#EXTINF:-1 tvg-id="Pershyi.ua@SD" group-title="🇺🇦 Украина",Перший
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.ua@SD" group-title="🇺🇦 Украина",Pixel TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTV.ua@SD" group-title="🇺🇦 Украина",PTV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneKyiv.ua@SD" group-title="🇺🇦 Украина",Суспільне Київ
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+
+#EXTINF:-1 tvg-id="Svarozhychy.ua@SD" group-title="🇺🇦 Украина",Сварожичі
+http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+
+#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD" group-title="🇺🇦 Украина",Телеканал RAI
+https://stream.rai.ua/rai/stream.m3u8
+
+#EXTINF:-1 tvg-id="TISTV.ua@SD" group-title="🇺🇦 Украина",ТІС TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRKIldana.ua@SD" group-title="🇺🇦 Украина",ТРК Ільдана
+https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="TV7Plus.ua@SD" group-title="🇺🇦 Украина",TV7+
+https://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 tvg-id="Rivne1.ua@SD" group-title="🇺🇦 Украина",TV Rivne 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVA.ua@SD" group-title="🇺🇦 Украина",ТВА Чернівці
+https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Z.ua@SD" group-title="🇺🇦 Украина",Z Запорожье
+https://stream.ztv.zp.ua/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="NTKTV.ua@SD" group-title="🇺🇦 Украина",НТК ТВ
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-id="PravdaTUT.ua@SD" group-title="🇺🇦 Украина",ПравдаТУТ
+https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
+
+#EXTINF:-1 tvg-id="SferaTV.ua@SD" group-title="🇺🇦 Украина",Сфера-ТВ
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ternopil1.ua@SD" group-title="🇺🇦 Украина",Тернопіль 1
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+
+#EXTINF:-1 tvg-id="TUSO.ua@SD" group-title="🇺🇦 Украина",Тюсо
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.ua@SD" group-title="🇺🇦 Украина",8 Канал
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+
+#EXTINF:-1 tvg-id="BlackSeaTV.ua@SD" group-title="🇺🇦 Украина",Black Sea TV
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+
+#EXTINF:-1 tvg-id="Sonce.ua@SD" group-title="🇺🇦 Украина",Сонце
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+
+#EXTINF:-1 tvg-id="Lale.ua@SD" group-title="🇺🇦 Украина",Lale
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+
+#EXTINF:-1 tvg-id="ObozrevatelTV.ua@SD" group-title="🇺🇦 Украина",Обозреватель TV
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenia1.am@SD" group-title="🇦🇲 Армения",Armenia 1 HD
+https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenia1.am@America" group-title="🇦🇲 Армения",Armenia 1 America HD
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenia1.am@Sattelite" group-title="🇦🇲 Армения",Armenia 1 Satellite HD
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenia2.am@SD" group-title="🇦🇲 Армения",Armenia 2 HD
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+
+#EXTINF:-1 tvg-id="ARTNTV.us@SD" group-title="🇦🇲 Армения",ARTN TV HD
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+
+#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" group-title="🇦🇲 Армения",First Channel News HD
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+
+#EXTINF:-1 tvg-id="1TV.ge@SD" group-title="🇬🇪 Грузия",1TV Georgia
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 tvg-id="2TV.ge@SD" group-title="🇬🇪 Грузия",2TV Georgia
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ApsuaTV.ge@SD" group-title="🇬🇪 Грузия",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+
+#EXTINF:-1 tvg-id="BMGTV.ge@SD" group-title="🇬🇪 Грузия",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+
+#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" group-title="🇬🇪 Грузия",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Formula.ge@SD" group-title="🇬🇪 Грузия",Formula HD
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" group-title="🇬🇪 Грузия",Imedi TV HD
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+
+#EXTINF:-1 tvg-id="MtavariArkhi.ge@SD" group-title="🇬🇪 Грузия",Mtavari Arkhi
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge@SD" group-title="🇬🇪 Грузия",Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" group-title="🇬🇪 Грузия",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="RioniTV.ge@SD" group-title="🇬🇪 Грузия",Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" group-title="🇬🇪 Грузия",Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+
+#EXTINF:-1 tvg-id="TVPirveli.ge@SD" group-title="🇬🇪 Грузия",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+
+#EXTINF:-1 tvg-id="AbazaTV.ru@SD" group-title="🇬🇪 Грузия",АБАЗА-ТВ
+https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
+
+#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" group-title="🎬 Кино и сериалы",5 минут тишины HD
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+
+#EXTINF:-1 tvg-id="Balabol.ru@SD" group-title="🎬 Кино и сериалы",Балабол HD
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
+
+#EXTINF:-1 tvg-id="Shef.ru@SD" group-title="🎬 Кино и сериалы",Шеф HD
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+
+#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" group-title="🎬 Кино и сериалы",Первый отдел HD
+https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+
+#EXTINF:-1 tvg-id="Pes.ru@SD" group-title="🎬 Кино и сериалы",Пёс HD
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+
+#EXTINF:-1 tvg-id="Nevskiy.ru@SD" group-title="🎬 Кино и сериалы",Невский HD
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="🎬 Кино и сериалы",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kino24.ru@SD" group-title="🎬 Кино и сериалы",Кино 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" group-title="🎬 Кино и сериалы",КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 tvg-id="VitrinaTV.ru@SD" group-title="🎬 Кино и сериалы",Витрина TV / 11 Cinema
+https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmUALive.ua@SD" group-title="🎬 Кино и сериалы",Film.UA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" group-title="🎬 Кино и сериалы",Film.UA Drama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="🎬 Кино и сериалы",Русский роман
+https://vod.tuva.ru/rusroman/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="🎬 Кино и сериалы",Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 tvg-id="NST.ru@SD" group-title="🎬 Кино и сериалы",НСТ
+https://vod.tuva.ru/nst/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="🎵 Детские и музыка",Карусель
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="RUTVKids.ru@SD" group-title="🎵 Детские и музыка",RU.TV Kids
+https://rutvkids.ru/live/efir/index.m3u8
+
+#EXTINF:-1 tvg-id="Multimania.ru@SD" group-title="🎵 Детские и музыка",Мультимания
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="🎵 Детские и музыка",Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="🎵 Детские и музыка",Тамыр
+https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="🎵 Детские и музыка",RU.TV
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+
+#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" group-title="🎵 Детские и музыка",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzSoyuz.ru@SD" group-title="🎵 Детские и музыка",Муз Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioShanson.ru@SD" group-title="🎵 Детские и музыка",Радио Шансон TV
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 tvg-id="HappyRadioTV.ua@HD" group-title="🎵 Детские и музыка",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+
+#EXTINF:-1 tvg-id="Muzvar.ua@SD" group-title="🎵 Детские и музыка",Muzvar
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NASHEMusic.ua@SD" group-title="🎵 Детские и музыка",NASHE Music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MegogoMusic.ua@SD" group-title="🎵 Детские и музыка",Megogo Music
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+
+#EXTINF:-1 tvg-id="BigAsia.ru@SD" group-title="🧠 Познавательные",Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nano.ru@HD" group-title="🧠 Познавательные",Нано ТВ HD
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+
+#EXTINF:-1 tvg-id="Nauka.ru@SD" group-title="🧠 Познавательные",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+
+#EXTINF:-1 tvg-id="UniverTV.ru@SD" group-title="🧠 Познавательные",Универ TV
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD" group-title="🧠 Познавательные",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+
+#EXTINF:-1 tvg-id="Televsesvit.ua@SD" group-title="🧠 Познавательные",Телевсесвіт
+https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.ua@SD" group-title="🧠 Познавательные",Мега
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KusKus.ua@SD" group-title="🧠 Познавательные",Кус-Кус
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rybalka.ua@SD" group-title="🧠 Познавательные",Рыбалка
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="🧠 Познавательные",Телекафе
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="T24.ru@SD" group-title="🧠 Познавательные",T24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="🧠 Познавательные",Охотник и рыболов
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="🧠 Познавательные",viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="🧠 Познавательные",Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" group-title="🧠 Познавательные",Моя Планета
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RZDTV.ru@SD" group-title="🧠 Познавательные",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5.by@SD" group-title="⚽ Спорт",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5.by@Internet" group-title="⚽ Спорт",Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportTV.by@SD" group-title="⚽ Спорт",Sport TV Беларусь
+http://178.124.179.122:8080/SportTV/mpegts
+
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" group-title="⚽ Спорт",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" group-title="⚽ Спорт",Спортивный
+https://live-3.otcnet.ru/sportivny/index.m3u8
+
+#EXTINF:-1 tvg-id="Adjarasport1.ge@SD" group-title="⚽ Спорт",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+
+#EXTINF:-1 tvg-id="SK1.ua@SD" group-title="⚽ Спорт",СК1 Украина
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="⚽ Спорт",MMA-TV.com
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" group-title="⚽ Спорт",viju+ Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" group-title="⚽ Спорт",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="⚽ Спорт",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FuelTV.us" group-title="⚽ Спорт",FUEL TV
+https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD" group-title="🇺🇸 США",Bloomberg Originals
+#EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@US" group-title="🇺🇸 США",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" group-title="🇺🇸 США",Bloomberg TV+
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" group-title="🇺🇸 США",CBS News 24/7
+http://40.160.24.56/CBS_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" group-title="🇺🇸 США",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" group-title="🇺🇸 США",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" group-title="🇺🇸 США",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+#EXTINF:-1 tvg-id="CheddarNews.us@SD" group-title="🇺🇸 США",Cheddar News
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" group-title="🇺🇸 США",Scripps News
+http://40.160.24.53/SCRIPPS_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us@SD" group-title="🇺🇸 США",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Create.us@SD" group-title="🇺🇸 США",Create PBS
+https://create.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us@SD" group-title="🇺🇸 США",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-id="WorldChannel.us@SD" group-title="🇺🇸 США",World Channel PBS
+https://world.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us@SD" group-title="🇺🇸 США",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us@SD" group-title="🇺🇸 США",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us@SD" group-title="🇺🇸 США",Grit Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD" group-title="🇺🇸 США",Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" group-title="🇺🇸 США",Free Speech TV
+https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" group-title="🇺🇸 США",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD" group-title="🇮🇷 Иран",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AlAlam.ir@SD" group-title="🇮🇷 Иран",Al Alam
+https://live2.alalam.ir/alalam.m3u8
+
+#EXTINF:-1 tvg-id="AlWilayah.ir@SD" group-title="🇮🇷 Иран",Al Wilayah
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+
+#EXTINF:-1 tvg-id="AsilTV.ir@SD" group-title="🇮🇷 Иран",Asil TV
+https://live.asil.tv/asiltv/index.m3u8
+
+#EXTINF:-1 tvg-id="AssiratTV.ir@SD" group-title="🇮🇷 Иран",Assirat TV
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD" group-title="🇮🇷 Иран",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HispanTV.ir@SD" group-title="🇮🇷 Иран",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD" group-title="🇮🇷 Иран",HodHod Farsi TV
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+
+#EXTINF:-1 tvg-id="iFilm2.ir@SD" group-title="🇮🇷 Иран",iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" group-title="🇮🇷 Иран",iFilm Arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
+
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" group-title="🇮🇷 Иран",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" group-title="🇮🇷 Иран",iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD" group-title="🇮🇷 Иран",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IranPress.ir@SD" group-title="🇮🇷 Иран",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="IRINN.ir@SD" group-title="🇮🇷 Иран",IRINN
+http://185.9.2.18/chid_926/index.m3u8
+
+#EXTINF:-1 tvg-id="MihanTV.ir@SD" group-title="🇮🇷 Иран",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD" group-title="🇮🇷 Иран",Mohabat TV
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" group-title="🇮🇷 Иран",National Iranian Congress TV
+https://tv.iraniancongress.com/stream/tv.m3u8
+
+#EXTINF:-1 tvg-id="OXIRTV.ir@SD" group-title="🇮🇷 Иран",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PayvandTV.ir@SD" group-title="🇮🇷 Иран",Payvand TV
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PressTV.ir@SD" group-title="🇮🇷 Иран",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+
+#EXTINF:-1 tvg-id="PressTVFrench.ir@SD" group-title="🇮🇷 Иран",Press TV French
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" group-title="🇮🇷 Иран",Rasoulallah TV
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SNNTV.ir@SD" group-title="🇮🇷 Иран",SNN TV
+https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" group-title="🇮🇷 Иран",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" group-title="🇮🇷 Иран",Wise Human TV
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YourTimeTV.ir@SD" group-title="🇮🇷 Иран",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AghapyTV.eg@SD" group-title="🇪🇬 Египет",Aghapy TV [не 24/7]
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlGhadTV.eg@SD" group-title="🇪🇬 Египет",Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" group-title="🇪🇬 Египет",Al Masriyah
+http://185.9.2.18/chid_247/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVSat.us@SD" group-title="🇪🇬 Египет",ATVSat [не 24/7]
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBC.eg@SD" group-title="🇪🇬 Египет",CBC
+https://flu.systemnet.tv/CBC/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" group-title="🇪🇬 Египет",CBC Drama
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCSofra.eg@SD" group-title="🇪🇬 Египет",CBC Sofra
+https://flu.systemnet.tv/CBCSofra/index.m3u8
+
+#EXTINF:-1 tvg-id="CopticTV.eg@SD" group-title="🇪🇬 Египет",Coptic TV
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg@SD" group-title="🇪🇬 Египет",El Radio 9090 FM
+https://9090video.mobtada.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ElsharqTV.tr@SD" group-title="🇪🇬 Египет",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HudaTV.eg@SD" group-title="🇪🇬 Египет",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
+#EXTINF:-1 tvg-id="KoogiTV.eg@SD" group-title="🇪🇬 Египет",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mazzika.eg@SD" group-title="🇪🇬 Египет",Mazzika
+http://149.100.11.235:8080/Mazzika/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" group-title="🇪🇬 Египет",MBC 1 Egypt
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" group-title="🇪🇬 Египет",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" group-title="🇪🇬 Египет",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 tvg-id="MixHollywood.eg@SD" group-title="🇪🇬 Египет",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="NogoumFMTV.eg@SD" group-title="🇪🇬 Египет",Nogoum FM TV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="WatanTV.eg@SD" group-title="🇪🇬 Египет",Watan TV
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" group-title="🇪🇬 Египет",Rotana Cinema Egypt [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" group-title="🇸🇦 Саудовская Аравия",Abdulmajeed Abdullah
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+
+#EXTINF:-1 tvg-id="Aflam.sa@SD" group-title="🇸🇦 Саудовская Аравия",Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="🇸🇦 Саудовская Аравия",Al Hadath
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" group-title="🇸🇦 Саудовская Аравия",Al Arabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AlEkhbariya.sa@SD" group-title="🇸🇦 Саудовская Аравия",Al Ekhbariya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" group-title="🇸🇦 Саудовская Аравия",Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiya.sa@SD" group-title="🇸🇦 Саудовская Аравия",Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa@SD" group-title="🇸🇦 Саудовская Аравия",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" group-title="🇸🇦 Саудовская Аравия",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlwesamTV.sa@SD" group-title="🇸🇦 Саудовская Аравия",Alwesam TV
+https://stream.addresses-sat.com/Alwesam/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" group-title="🇸🇦 Саудовская Аравия",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" group-title="🇸🇦 Саудовская Аравия",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD" group-title="🇸🇦 Саудовская Аравия",Asharq News
+https://live-news.asharq.com/asharq.m3u8
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" group-title="🇸🇦 Саудовская Аравия",Atfal & Mawaheb TV
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabAlHara.sa@SD" group-title="🇸🇦 Саудовская Аравия",Bab Al Hara
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BigTimePlus.sa@SD" group-title="🇸🇦 Саудовская Аравия",Big Time Plus
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+
+#EXTINF:-1 tvg-id="Fairuz.sa@HD" group-title="🇸🇦 Саудовская Аравия",Fairuz
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaAfricaEurope.sa@SD" group-title="🇸🇦 Саудовская Аравия",Iqraa Africa & Europe
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaArabic.sa@SD" group-title="🇸🇦 Саудовская Аравия",Iqraa Arabic
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaQuran.sa@SD" group-title="🇸🇦 Саудовская Аравия",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkahTV.sa@SD" group-title="🇸🇦 Саудовская Аравия",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Maraya.sa@HD" group-title="🇸🇦 Саудовская Аравия",Maraya
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" group-title="🇸🇦 Саудовская Аравия",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMood.sa@HD" group-title="🇸🇦 Саудовская Аравия",MBC Mood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" group-title="🇸🇦 Саудовская Аравия",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesAction.sa@SD" group-title="🇸🇦 Саудовская Аравия",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoviesThriller.sa@SD" group-title="🇸🇦 Саудовская Аравия",Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa@SD" group-title="🇸🇦 Саудовская Аравия",Saudi Thaqafiya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+
+#EXTINF:-1 tvg-id="SBC.sa@SD" group-title="🇸🇦 Саудовская Аравия",SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+
+#EXTINF:-1 tvg-id="Tarab.sa@SD" group-title="🇸🇦 Саудовская Аравия",Tarab
+https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThikrayatTV.sa@SD" group-title="🇸🇦 Саудовская Аравия",Thikrayat TV [Geo]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" group-title="🇸🇦 Саудовская Аравия",Rotana Cinema KSA [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" group-title="🇸🇦 Саудовская Аравия",Rotana Classic [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClip.sa@SD" group-title="🇸🇦 Саудовская Аравия",Rotana Clip [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaComedy.sa@SD" group-title="🇸🇦 Саудовская Аравия",Rotana Comedy [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaDrama.sa@SD" group-title="🇸🇦 Саудовская Аравия",Rotana Drama [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa@SD" group-title="🇸🇦 Саудовская Аравия",Rotana Khalijia [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa@SD" group-title="🇸🇦 Саудовская Аравия",Rotana Music [Geo]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="31Kanal.kz@SD" group-title="🇰🇿 Казахстан",31 Kanal
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="AbaiTV.kz@SD" group-title="🇰🇿 Казахстан",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlauTV.kz@SD" group-title="🇰🇿 Казахстан",Alau TV
+https://otv.wotom.net/alau/stream.m3u8
+
+#EXTINF:-1 tvg-id="Aqjaiyq.kz@SD" group-title="🇰🇿 Казахстан",Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Aqtobe.kz@SD" group-title="🇰🇿 Казахстан",Aqtóbe
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Atyray.kz@SD" group-title="🇰🇿 Казахстан",Atyraý
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+
+#EXTINF:-1 tvg-id="Balapan.kz@HD" group-title="🇰🇿 Казахстан",Balapan HD
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ertis.kz@SD" group-title="🇰🇿 Казахстан",Ertis
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+
+#EXTINF:-1 tvg-id="Jambyl.kz@SD" group-title="🇰🇿 Казахстан",Jambyl
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+
+#EXTINF:-1 tvg-id="JibekJoly.kz@HD" group-title="🇰🇿 Казахстан",Jibek Joly HD
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kokshe.kz@SD" group-title="🇰🇿 Казахстан",Kókshe
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+
+#EXTINF:-1 tvg-id="KTK.kz@HD" group-title="🇰🇿 Казахстан",KTK HD
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mangystay.kz@SD" group-title="🇰🇿 Казахстан",Mańǵystaý
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+
+#EXTINF:-1 tvg-id="MTRK.kz@SD" group-title="🇰🇿 Казахстан",MTRK
+https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzzOne.kz@SD" group-title="🇰🇿 Казахстан",MuzzOne
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="Ontustik.kz@SD" group-title="🇰🇿 Казахстан",Ontústik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+
+#EXTINF:-1 tvg-id="Qazaqstan.kz@HD" group-title="🇰🇿 Казахстан",Qazaqstan HD
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD" group-title="🇰🇿 Казахстан",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="QazSport.kz@SD" group-title="🇰🇿 Казахстан",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QonaevMedia.kz@SD" group-title="🇰🇿 Казахстан",Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Qostanai.kz@SD" group-title="🇰🇿 Казахстан",Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+
+#EXTINF:-1 tvg-id="Qyzyljar.kz@SD" group-title="🇰🇿 Казахстан",Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Qyzylorda.kz@SD" group-title="🇰🇿 Казахстан",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RikaTV.kz@SD" group-title="🇰🇿 Казахстан",Rika TV
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Saryarqa.kz@SD" group-title="🇰🇿 Казахстан",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+
+#EXTINF:-1 tvg-id="Semei.kz@SD" group-title="🇰🇿 Казахстан",Semeı
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+#EXTINF:-1 tvg-id="SilkWay.kz@SD" group-title="🇰🇿 Казахстан",Silk Way
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+
+#EXTINF:-1 tvg-id="SilkWayCinema.kz@SD" group-title="🇰🇿 Казахстан",Silk Way Cinema [Geo]
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" group-title="🇰🇿 Казахстан",Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltynAsyr.tm@SD" group-title="🇹🇲 Туркменистан",Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001.m3u8
+
+#EXTINF:-1 tvg-id="ArkadagTV.tm@SD" group-title="🇹🇲 Туркменистан",Arkadag TV
+https://alpha.tv.online.tm/hls/ch000.m3u8
+
+#EXTINF:-1 tvg-id="Asgabat.tm@SD" group-title="🇹🇲 Туркменистан",Aşgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8
+
+#EXTINF:-1 tvg-id="Miras.tm@SD" group-title="🇹🇲 Туркменистан",Miras
+https://alpha.tv.online.tm/hls/ch003.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm@SD" group-title="🇹🇲 Туркменистан",Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm@SD" group-title="🇹🇲 Туркменистан",Türkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm@SD" group-title="🇹🇲 Туркменистан",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="Yaslyk.tm@SD" group-title="🇹🇲 Туркменистан",Ýaşlyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+
+#EXTINF:-1 tvg-id="Aqlvoy.uz@SD" group-title="🇺🇿 Узбекистан",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BIZCinema.uz@SD" group-title="🇺🇿 Узбекистан",BIZ Cinema
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BIZMusic.uz@SD" group-title="🇺🇿 Узбекистан",BIZ Music
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BIZTV.uz@SD" group-title="🇺🇿 Узбекистан",BIZ TV
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bolajon.uz@SD" group-title="🇺🇿 Узбекистан",Bolajon
+https://stream8.cinerama.uz/1007/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CheksizTV.uz@SD" group-title="🇺🇿 Узбекистан",Cheksiz TV
+https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DasturxonTV.uz@SD" group-title="🇺🇿 Узбекистан",Dasturxon TV
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dunyoboylab.uz@SD" group-title="🇺🇿 Узбекистан",Dunyo bo'ylab
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FargonaMTRK.uz@SD" group-title="🇺🇿 Узбекистан",Farg'ona MTRK
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FTV.uz@SD" group-title="🇺🇿 Узбекистан",FTV
+https://stream8.cinerama.uz/1018/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FutbolTV.uz@HD" group-title="🇺🇿 Узбекистан",Futbol TV
+http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kinoteatr.uz@SD" group-title="🇺🇿 Узбекистан",Kinoteatr
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz@SD" group-title="🇺🇿 Узбекистан",Madaniyat va ma'rifat
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mahalla.uz@SD" group-title="🇺🇿 Узбекистан",Mahalla
+https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakonTV.uz@SD" group-title="🇺🇿 Узбекистан",Makon TV
+https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Milliy.uz@SD" group-title="🇺🇿 Узбекистан",Milliy
+https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzTVUzbekistan.uz@SD" group-title="🇺🇿 Узбекистан",Muz TV Uzbekistan
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MY5.uz@SD" group-title="🇺🇿 Узбекистан",MY5
+https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Navo.uz@SD" group-title="🇺🇿 Узбекистан",Navo
+https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NavoiyMTRK.uz@SD" group-title="🇺🇿 Узбекистан",Navoiy MTRK
+https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NurafshonTV.uz@SD" group-title="🇺🇿 Узбекистан",Nurafshon TV
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ozbekiston.uz@SD" group-title="🇺🇿 Узбекистан",O'zbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ozbekiston24.uz@SD" group-title="🇺🇿 Узбекистан",O'zbekiston 24
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OzbekistonTarixi.uz@SD" group-title="🇺🇿 Узбекистан",O'zbekiston Tarixi
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Qaraqalpaqstan.uz@SD" group-title="🇺🇿 Узбекистан",Qaraqalpaqstan
+https://stream8.cinerama.uz/1467/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RenessansTV.uz@SD" group-title="🇺🇿 Узбекистан",Renessans TV
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SevimliTV.uz@SD" group-title="🇺🇿 Узбекистан",Sevimli TV
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport.uz@SD" group-title="🇺🇿 Узбекистан",Sport Uzbekistan
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TaraqqiyotTV.uz@SD" group-title="🇺🇿 Узбекистан",Taraqqiyot TV
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Toshkent.uz@SD" group-title="🇺🇿 Узбекистан",Toshkent
+https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UzReportTV.uz@SD" group-title="🇺🇿 Узбекистан",UzReport TV
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yoshlar.uz@SD" group-title="🇺🇿 Узбекистан",Yoshlar
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZorTV.uz@SD" group-title="🇺🇿 Узбекистан",Zo'r TV
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="312Kino.kg@SD" group-title="🇰🇬 Кыргызстан",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="312TV.kg@SD" group-title="🇰🇬 Кыргызстан",312 ТВ
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NextTV.kg@SD" group-title="🇰🇬 Кыргызстан",Next TV
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV1KG.kg@SD" group-title="🇰🇬 Кыргызстан",TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV15.kg@SD" group-title="🇰🇬 Кыргызстан",TV15
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OshPirim.kg@SD" group-title="🇰🇬 Кыргызстан",Ош Пирим
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UTRK.kg@SD" group-title="🇰🇬 Кыргызстан",УТРК
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
+
+#EXTINF:-1 tvg-id="AlaToo24.kg@SD" group-title="🇰🇬 Кыргызстан",УТРК Ала-Тоо 24
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Balastan.kg@SD" group-title="🇰🇬 Кыргызстан",УТРК Баластан
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
+
+#EXTINF:-1 tvg-id="Music.kg@SD" group-title="🇰🇬 Кыргызстан",УТРК Музыка
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport.kg@SD" group-title="🇰🇬 Кыргызстан",УТРК Спорт
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+
+#EXTINF:-1 tvg-id="ElTR.kg@SD" group-title="🇰🇬 Кыргызстан",ЭлТР
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+
+#EXTINF:-1 tvg-id="BilimIlim.kg@SD" group-title="🇰🇬 Кыргызстан",ЭлТР Билим Илим
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+
+#EXTINF:-1 tvg-id="BaltiTV.md@SD" group-title="🇲🇩 Молдова",Bălţi TV [Geo]
+http://77.89.199.174:8000/play/1024/index.m3u8
+
+#EXTINF:-1 tvg-id="BusuiocTV.md@SD" group-title="🇲🇩 Молдова",Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+
+#EXTINF:-1 tvg-id="HitFM.md@SD" group-title="🇲🇩 Молдова",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moldova1.md@SD" group-title="🇲🇩 Молдова",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+
+#EXTINF:-1 tvg-id="Moldova2.md@SD" group-title="🇲🇩 Молдова",Moldova 2
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" group-title="🇲🇩 Молдова",Moldova TV
+https://moldovatv.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-id="NorocTV.md@SD" group-title="🇲🇩 Молдова",Noroc TV
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+
+#EXTINF:-1 tvg-id="PrivescEuTV.md@SD" group-title="🇲🇩 Молдова",Privesc.Eu TV
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" group-title="🇲🇩 Молдова",PRO TV Chisinau
+https://stream.protv.md/live/sursa-1/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioChisinau.md@SD" group-title="🇲🇩 Молдова",Radio Chisinau
+https://radiochisinau.md/hls/RChisinau.m3u8
+
+#EXTINF:-1 tvg-id="RadioMoldova.md@SD" group-title="🇲🇩 Молдова",Radio Moldova
+https://radiolive.trm.md/hls_rma/actualitati.m3u8
+
+#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md@SD" group-title="🇲🇩 Молдова",Radio Moldova Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+
+#EXTINF:-1 tvg-id="RadioMoldovaTineret.md@SD" group-title="🇲🇩 Молдова",Radio Moldova Tineret
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaTV.md@SD" group-title="🇲🇩 Молдова",Rlive TV
+https://realitatealive.md/tv/rlive.m3u8
+
+#EXTINF:-1 tvg-id="SorTV.md@SD" group-title="🇲🇩 Молдова",Sor TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+
+#EXTINF:-1 tvg-id="TezaurTV.md@SD" group-title="🇲🇩 Молдова",Tezaur TV
+https://tezaurtv.md/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TSV.md@SD" group-title="🇲🇩 Молдова",TSV
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRMoldova.md@HD" group-title="🇲🇩 Молдова",TVR Moldova HD
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" group-title="🇲🇩 Молдова",Vocea Basarabiei TV
+https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Badakhshon.tj@SD" group-title="🇹🇯 Таджикистан",Badakhshon
+https://live.teleradiocom.tj/11/3m.m3u8
+
+#EXTINF:-1 tvg-id="DushanbeHD.tj@SD" group-title="🇹🇯 Таджикистан",Dushanbe HD
+https://live.teleradiocom.tj/7/3m.m3u8
+
+#EXTINF:-1 tvg-id="Futbol.tj@SD" group-title="🇹🇯 Таджикистан",Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
+
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj@SD" group-title="🇹🇯 Таджикистан",Ilm va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
+
+#EXTINF:-1 tvg-id="Jahonnamo.tj@SD" group-title="🇹🇯 Таджикистан",Jahonnamo
+https://live.teleradiocom.tj/4/3m.m3u8
+
+#EXTINF:-1 tvg-id="Khatlon.tj@SD" group-title="🇹🇯 Таджикистан",Khatlon
+https://live.teleradiocom.tj/10/3m.m3u8
+
+#EXTINF:-1 tvg-id="Tojikiston.tj@SD" group-title="🇹🇯 Таджикистан",Tajikistan
+https://live.teleradiocom.tj/1/3m.m3u8
+
+#EXTINF:-1 tvg-id="TMT.tj@SD" group-title="🇹🇯 Таджикистан",TMT
+https://live.teleradiocom.tj/9/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVBahoriston.tj@SD" group-title="🇹🇯 Таджикистан",TV Bahoriston
+https://live.teleradiocom.tj/3/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVKulob.tj@SD" group-title="🇹🇯 Таджикистан",TV Kulob
+https://live.teleradiocom.tj/12/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSafina.tj@SD" group-title="🇹🇯 Таджикистан",TV Safina
+https://live.teleradiocom.tj/2/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSayohi.tj@SD" group-title="🇹🇯 Таджикистан",TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSinamo.tj@SD" group-title="🇹🇯 Таджикистан",TV Sinamo
+https://live.teleradiocom.tj/6/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSugd.tj@SD" group-title="🇹🇯 Таджикистан",TV Sugd
+https://live.teleradiocom.tj/14/3m.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us@US" group-title="🎞 Кино 24/7",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moviedome.de@SD" group-title="🎞 Кино 24/7",Moviedome
+https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ActionHollywoodMovies.us@SD" group-title="🎞 Кино 24/7",Action Hollywood Movies
+https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us@SD" group-title="🎞 Кино 24/7",Dove Channel
+https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Docurama.us@SD" group-title="🎞 Кино 24/7",Docurama
+https://docurama-distro.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="🎞 Кино 24/7",B4U Movies India [Geo]
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineMo.ph@SD" group-title="🎞 Кино 24/7",Cine Mo!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinemaOne.ph@SD" group-title="🎞 Кино 24/7",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="HalaLondonTVMovies.uk@SD" group-title="🎞 Кино 24/7",Hala London TV Movies
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenActionMovies.uk@SD" group-title="🎬 Боевики и приключения",Rakuten Action Movies [Geo]
+https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HiYah.us@SD" group-title="🎬 Боевики и приключения",Hi-Yah! Martial Arts
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="ElReyNetwork.us@SD" group-title="🎬 Боевики и приключения",El Rey Entertainment
+https://cinedigm-elrey-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD" group-title="🎬 Боевики и приключения",Grjngo Western Movies
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoSeeWesterns.us@SD" group-title="🎬 Боевики и приключения",GoSeeWesterns
+https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536
+
+#EXTINF:-1 tvg-id="HorrorMachine.us@SD" group-title="👻 Ужасы и фантастика",Horror Machine
+https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HauntTV.ca@SD" group-title="👻 Ужасы и фантастика",Haunt TV
+https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD" group-title="👻 Ужасы и фантастика",Dark Matter TV
+https://darkmatter-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALTER.us@SD" group-title="👻 Ужасы и фантастика",ALTER Horror
+https://amg00219-gunpowder-alter-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DUST.us@SD" group-title="👻 Ужасы и фантастика",DUST Sci-Fi
+https://dust-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenThrillers.uk@SD" group-title="👻 Ужасы и фантастика",Rakuten Thrillers [Geo]
+https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenComedyMovies.uk@SD" group-title="😂 Комедии",Rakuten Comedy Movies [Geo]
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" group-title="😂 Комедии",Comedy Dynamics
+https://cinedigm-comedydynamics-lg-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MST3K.us@SD" group-title="😂 Комедии",Mystery Science Theater 3000
+https://amg00163-shoutfactory-mst3k-rokuus-2056b.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" group-title="🎞 Классика и кино",FilmRise Classic TV
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+
+#EXTINF:-1 tvg-id="ClassicRerunTV.us@SD" group-title="🎞 Классика и кино",Classic Rerun TV
+https://classicreruntv-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us@SD" group-title="🎞 Классика и кино",Shout! Factory TV
+https://shoutfactory-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineLife.us@SD" group-title="🎞 Классика и кино",CineLife
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GravitasMovies.us@SD" group-title="🎞 Классика и кино",Gravitas Movies
+https://gravitas-movies-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopMovies.uk@SD" group-title="🎞 Классика и кино",Rakuten Top Movies UK [Geo]
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+
+#EXTINF:-1 tvg-id="TopMovies.pl@SD" group-title="🎞 Классика и кино",Rakuten Top Movies Polska [Geo]
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenBritishFilms.uk@SD" group-title="🎞 Классика и кино",Rakuten British Films [Geo]
+https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenNordicFilms.uk@SD" group-title="🎞 Классика и кино",Rakuten Nordic Films [Geo]
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenFamilyMovies.uk@SD" group-title="🎞 Классика и кино",Rakuten Family Movies [Geo]
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmHub.us@SD" group-title="🎞 Классика и кино",FilmHub Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us@SD" group-title="🎞 Классика и кино",FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" group-title="🎞 Классика и кино",Maverick Black Cinema
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="MovieMix.us@SD" group-title="🎞 Классика и кино",MovieMix
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/a468bdd3-a0e5-4a4b-bae7-3e784ee5f4e4:CBF2/master.m3u8
+
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" group-title="🌏 Азиатское кино",RetroCrush Anime
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
+
+#EXTINF:-1 tvg-id="AsianCrush.us@SD" group-title="🌏 Азиатское кино",AsianCrush
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenViki.us@SD" group-title="🌏 Азиатское кино",Rakuten Viki
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenDrama.uk@SD" group-title="📺 Сериалы и драма",Rakuten Drama [Geo]
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+
+#EXTINF:-1 tvg-id="SoRealTV.us@SD" group-title="📺 Сериалы и драма",So...Real TV
+https://cinedigm-soreal-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElectricNOW.us@SD" group-title="📺 Сериалы и драма",ElectricNOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="EVRGRN.us@SD" group-title="📺 Сериалы и драма",EVRGRN
+https://evrgn-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HumanityDocumentaries.uk@SD" group-title="🎥 Документальное и короткий метр",Humanity Documentaries
+https://alchimie-humanity-documentaries-uk-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SofyTV.us@SD" group-title="🎥 Документальное и короткий метр",Sofy.tv Short Films
+https://sofytv-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" group-title="🇰🇷 Южная Корея",Arirang TV HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangUN.kr@SD" group-title="🇰🇷 Южная Корея",Arirang TV UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTNTV.kr@SD" group-title="🇰🇷 Южная Корея",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS1TV.kr@SD" group-title="🇰🇷 Южная Корея",EBS 1 [не 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS2TV.kr@SD" group-title="🇰🇷 Южная Корея",EBS 2 [не 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSEnglish.kr@SD" group-title="🇰🇷 Южная Корея",EBS English [не 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSKids.kr@SD" group-title="🇰🇷 Южная Корея",EBS Kids [не 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FGTV.kr@SD" group-title="🇰🇷 Южная Корея",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GugakTV.kr@SD" group-title="🇰🇷 Южная Корея",Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" group-title="🇰🇷 Южная Корея",KBS World
+#EXTVLCOPT:http-referrer=https://cinerama.uz/
+https://stream8.cinerama.uz/1448/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV.kr@SD" group-title="🇰🇷 Южная Корея",Korea TV (KTV)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OUN.kr@SD" group-title="🇰🇷 Южная Корея",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBSTV.kr@SD" group-title="🇰🇷 Южная Корея",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVChosun.kr@SD" group-title="🇰🇷 Южная Корея",TV Chosun
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" group-title="🇯🇵 Япония",CGNTV Japan
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 tvg-id="GSTV.jp@SD" group-title="🇯🇵 Япония",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="🇯🇵 Япония",NHK World-Japan HD
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 tvg-id="QVC.jp@SD" group-title="🇯🇵 Япония",QVC Japan
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+
+#EXTINF:-1 tvg-id="AndoTV.cn@SD" group-title="🇨🇳 Китай",Ando TV
+http://play.kankanlive.com/live/1711956137852982.m3u8
+
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn@SD" group-title="🇨🇳 Китай",BRTV Kaku Kids
+http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD" group-title="🇨🇳 Китай",BRTV Beijing
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+
+#EXTINF:-1 tvg-id="CETV1.cn@SD" group-title="🇨🇳 Китай",CETV 1
+http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+
+#EXTINF:-1 tvg-id="CETV2.cn@SD" group-title="🇨🇳 Китай",CETV 2
+http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+
+#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="🇨🇳 Китай",CGTN HD
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="🇨🇳 Китай",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="DragonTVInternational.cn@SD" group-title="🇨🇳 Китай",Dragon TV International
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+
+#EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" group-title="🇨🇳 Китай",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+
+#EXTINF:-1 tvg-id="HunanTV.cn@SD" group-title="🇨🇳 Китай",Hunan TV 4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
+#EXTINF:-1 tvg-id="92NewsHD.pk@SD" group-title="🇵🇰 Пакистан",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AajEntertainment.pk@SD" group-title="🇵🇰 Пакистан",Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-id="AajNews.pk@SD" group-title="🇵🇰 Пакистан",Aaj News
+http://115.42.65.142:9981/stream/channelid/750987367
+
+#EXTINF:-1 tvg-id="NeoNews.pk@SD" group-title="🇵🇰 Пакистан",Neo News
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsOne.pk@SD" group-title="🇵🇰 Пакистан",News One
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneGolf.pk@SD" group-title="🇵🇰 Пакистан",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVNews.pk@SD" group-title="🇵🇰 Пакистан",PTV News
+http://103.250.28.74:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports.pk@SD" group-title="🇵🇰 Пакистан",PTV Sports
+https://tvsen7.aynascope.net/Sports1/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicNews.pk@SD" group-title="🇵🇰 Пакистан",Public News
+http://103.250.28.74:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-id="SamaaTV.pk@SD" group-title="🇵🇰 Пакистан",Samaa TV
+https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SilverScreen.pk@SD" group-title="🇵🇰 Пакистан",Silver Screen
+http://103.250.28.74:8000/play/a044/index.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in@SD" group-title="🇮🇳 Индия",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD" group-title="🇮🇳 Индия",9X Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in@SD" group-title="🇮🇳 Индия",9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="🇮🇳 Индия",Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in@SD" group-title="🇮🇳 Индия",DD India
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="🇮🇳 Индия",DD National HD
+https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNews.in@SD" group-title="🇮🇳 Индия",DD News
+https://cdn-2.pishow.tv/live/12/master.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV1.in@SD" group-title="🇮🇳 Индия",Sansad TV 1
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV2.in@HD" group-title="🇮🇳 Индия",Sansad TV 2
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+
+#EXTINF:-1 tvg-id="WION.in@SD" group-title="🇮🇳 Индия",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="IndiaToday.in@SD" group-title="🇮🇳 Индия",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" group-title="🇮🇳 Индия",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇨🇦 Канада",CBC Murdoch Mysteries [Geo]
+https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇨🇦 Канада",CBC News BC [Geo]
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇨🇦 Канада",CBC News Explore [Geo]
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
+
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" group-title="🇨🇦 Канада",CBC News Network [Geo]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇨🇦 Канада",CBC News Toronto [Geo]
+https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+
+#EXTINF:-1 tvg-id="CPACEnglish.ca@SD" group-title="🇨🇦 Канада",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="CityNewsCalgary.ca@SD" group-title="🇨🇦 Канада",CityNews Calgary
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+#EXTINF:-1 tvg-id="CityNewsToronto.ca@SD" group-title="🇨🇦 Канада",CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+
+#EXTINF:-1 tvg-id="CityNewsVancouver.ca@SD" group-title="🇨🇦 Канада",CityNews Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+
+#EXTINF:-1 tvg-id="CHCOTV.ca@SD" group-title="🇨🇦 Канада",CHCO-TV [Geo]
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+
+#EXTINF:-1 tvg-id="GBNews.uk@SD" group-title="🇬🇧 Великобритания",GB News
+https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
+
+#EXTINF:-1 tvg-id="GemsTV.uk@SD" group-title="🇬🇧 Великобритания",Gems TV
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GREATmovies.uk@UK" group-title="🇬🇧 Великобритания",GREAT! movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GREATromance.uk@UK" group-title="🇬🇧 Великобритания",GREAT! romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalaLondon.uk@SD" group-title="🇬🇧 Великобритания",Hala London
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+
+#EXTINF:-1 tvg-id="HobbyMaker.uk@SD" group-title="🇬🇧 Великобритания",Hobby Maker
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" group-title="🇬🇧 Великобритания",Horse & Country TV
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+
+#EXTINF:-1 tvg-id="GODTV.uk@SD" group-title="🇬🇧 Великобритания",GOD TV
+https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" group-title="🇬🇧 Великобритания",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" group-title="🇬🇧 Великобритания",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de@SD" group-title="🇩🇪 Германия",3sat [Geo]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" group-title="🇩🇪 Германия",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlexBerlin.de@SD" group-title="🇩🇪 Германия",Alex Berlin
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="🇩🇪 Германия",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD" group-title="🇩🇪 Германия",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" group-title="🇩🇪 Германия",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@English" group-title="🇩🇪 Германия",DW English
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" group-title="🇩🇪 Германия",Bundestag TV 1 [Geo]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="phoenix.de@HD" group-title="🇩🇪 Германия",Phoenix [Geo]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" group-title="🇩🇪 Германия",Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="🇫🇷 Франция",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 tvg-id="Africa24.fr@SD" group-title="🇫🇷 Франция",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Africa24English.fr@SD" group-title="🇫🇷 Франция",Africa 24 English
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" group-title="🇫🇷 Франция",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" group-title="🇫🇷 Франция",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" group-title="🇫🇷 Франция",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="🇫🇷 Франция",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="🇫🇷 Франция",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" group-title="🇪🇸 Испания",3Cat Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" group-title="🇪🇸 Испания",3Cat Plats bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+
+#EXTINF:-1 tvg-id="La1.es@SD" group-title="🇪🇸 Испания",La 1 [Geo]
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 tvg-id="La2.es@SD" group-title="🇪🇸 Испания",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 tvg-id="24HorasCanarias.es@SD" group-title="🇪🇸 Испания",Canal 24 Horas Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+
+#EXTINF:-1 tvg-id="Teledeporte.es@SD" group-title="🇪🇸 Испания",Teledeporte [Geo]
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+
+#EXTINF:-1 tvg-id="SevillaFCTV.es@SD" group-title="🇪🇸 Испания",Sevilla FC TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+
+#EXTINF:-1 tvg-id="SolMusica.es@SD" group-title="🇪🇸 Испания",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 tvg-id="SX3.es@SD" group-title="🇪🇸 Испания",SX3 [Geo]
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Tele7.es@SD" group-title="🇪🇸 Испания",Tele 7
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20.it@SD" group-title="🇮🇹 Италия",20 Mediaset [Geo]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+
+#EXTINF:-1 tvg-id="Twentyseven.it@SD" group-title="🇮🇹 Италия",27 TwentySeven [Geo]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioZeta.it@SD" group-title="🇮🇹 Италия",Radio Zeta TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it@SD" group-title="🇮🇹 Италия",Rai 1 [Geo]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1 tvg-id="Rai2.it@SD" group-title="🇮🇹 Италия",Rai 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+
+#EXTINF:-1 tvg-id="Rai3.it@HD" group-title="🇮🇹 Италия",Rai 3 [Geo]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+
+#EXTINF:-1 tvg-id="Rai4.it@SD" group-title="🇮🇹 Италия",Rai 4
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:-1 tvg-id="RaiGulp.it@SD" group-title="🇮🇹 Италия",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+
+#EXTINF:-1 tvg-id="RaiNews24.it@SD" group-title="🇮🇹 Италия",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiScuola.it@SD" group-title="🇮🇹 Италия",Rai Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+
+#EXTINF:-1 tvg-id="TGCom24.it@SD" group-title="🇮🇹 Италия",TGCom 24 [Geo]
+https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+
+#EXTINF:-1 tvg-id="A7TV.ro@SD" group-title="🇷🇴 Румыния",A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.ro@SD" group-title="🇷🇴 Румыния",Agro TV [не 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
+#EXTINF:-1 tvg-id="AlephBusiness.ro@SD" group-title="🇷🇴 Румыния",Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlephNews.ro@SD" group-title="🇷🇴 Румыния",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi24.ro@SD" group-title="🇷🇴 Румыния",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="DottoTV.ro@SD" group-title="🇷🇴 Румыния",Dotto TV
+https://live.dottotv.ro/index.m3u8
+
+#EXTINF:-1 tvg-id="TVR1.ro@SD" group-title="🇷🇴 Румыния",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR2.ro@SD" group-title="🇷🇴 Румыния",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR3.ro@SD" group-title="🇷🇴 Румыния",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRCultural.ro@SD" group-title="🇷🇴 Румыния",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRFolclor.ro@SD" group-title="🇷🇴 Румыния",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVT1.se@HD" group-title="🇸🇪 Швеция",SVT1 HD [Geo]
+https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?format=hls&defaultSubLang=1
+
+#EXTINF:-1 tvg-id="SVT2.se@HD" group-title="🇸🇪 Швеция",SVT2 HD [Geo]
+https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?format=hls&defaultSubLang=1
+
+#EXTINF:-1 tvg-id="SVTBarnSVT24.se@SD" group-title="🇸🇪 Швеция",SVT Barn / SVT24 [Geo]
+https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?format=hls&defaultSubLang=1
+
+#EXTINF:-1 tvg-id="Canal9.ch@SD" group-title="🇨🇭 Швейцария",Canal 9
+https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
+
+#EXTINF:-1 tvg-id="CanalAlphaJura.ch@SD" group-title="🇨🇭 Швейцария",Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch@SD" group-title="🇨🇭 Швейцария",Canal Alpha Neuchâtel [не 24/7]
+https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carac1.ch@SD" group-title="🇨🇭 Швейцария",Carac 1
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Carac2.ch@SD" group-title="🇨🇭 Швейцария",Carac 2
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Carac3.ch@SD" group-title="🇨🇭 Швейцария",Carac 3
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carac4.ch@SD" group-title="🇨🇭 Швейцария",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carac5.ch@SD" group-title="🇨🇭 Швейцария",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Couleur3.ch@SD" group-title="🇨🇭 Швейцария",Couleur 3
+https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
+
+#EXTINF:-1 tvg-id="DieNeueZeitTV.ch@SD" group-title="🇨🇭 Швейцария",Die Neue Zeit TV
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4E.gr@SD" group-title="🇬🇷 Греция",4E
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AcheloosTV.gr@SD" group-title="🇬🇷 Греция",Acheloos TV
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Action24.gr@SD" group-title="🇬🇷 Греция",Action 24 [не 24/7]
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlphaTV.gr@SD" group-title="🇬🇷 Греция",Alpha TV
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ERT3.gr@SD" group-title="🇬🇷 Греция",ERT3
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
+
+#EXTINF:-1 tvg-id="ERTCosmos.gr@SD" group-title="🇬🇷 Греция",ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+
+#EXTINF:-1 tvg-id="ERTNews.gr@HD" group-title="🇬🇷 Греция",ERT News HD
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+
+#EXTINF:-1 tvg-id="SkaiTV.gr@SD" group-title="🇬🇷 Греция",Skai TV
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.gr@SD" group-title="🇬🇷 Греция",STAR HD
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+
+#EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" group-title="🇬🇷 Греция",Star Kentrikis Elladas
+https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+
+#EXTINF:-1 tvg-id="BOKTV.za@SD" group-title="🇿🇦 ЮАР",BOKTV [не 24/7]
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+
+#EXTINF:-1 tvg-id="GNFTV.za@SD" group-title="🇿🇦 ЮАР",GNF TV
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" group-title="🇿🇦 ЮАР",Homebase TV
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelAfrica.za@SD" group-title="🇿🇦 ЮАР",Hope Channel Africa
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+
+#EXTINF:-1 tvg-id="LN24SA.za@SD" group-title="🇿🇦 ЮАР",LN24SA
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuViewTV.za@SD" group-title="🇿🇦 ЮАР",NuView TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ROVTV.za@SD" group-title="🇿🇦 ЮАР",ROV TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SABC1.za@SD" group-title="🇿🇦 ЮАР",SABC 1 [Geo]
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SABC2.za@SD" group-title="🇿🇦 ЮАР",SABC 2 [Geo]
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SABCNews.za@SD" group-title="🇿🇦 ЮАР",SABC News [Geo]
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="🇿🇦 ЮАР",WildEarth [Geo]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2iMusic.sn@SD" group-title="🇸🇳 Сенегал",A2i Music [не 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2iNaija.sn@SD" group-title="🇸🇳 Сенегал",A2i Naija [не 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2iReligion.sn@SD" group-title="🇸🇳 Сенегал",A2i Religion [не 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmaniTV.sn@SD" group-title="🇸🇳 Сенегал",Amani TV [не 24/7]
+https://goccn.cloud/hls/amanitv/index.m3u8
+
+#EXTINF:-1 tvg-id="ChabibaTV.sn@SD" group-title="🇸🇳 Сенегал",Chabiba TV [не 24/7]
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+
+#EXTINF:-1 tvg-id="CNMTV.sn@SD" group-title="🇸🇳 Сенегал",CNM TV [не 24/7]
+https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GMSTV.sn@SD" group-title="🇸🇳 Сенегал",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LougaTV.sn@SD" group-title="🇸🇳 Сенегал",Louga TV
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneNationTV.sn@SD" group-title="🇸🇳 Сенегал",One Nation TV [не 24/7]
+https://endour.net/hls/One_nationtv/index.m3u8
+
+#EXTINF:-1 tvg-id="RTS3.sn@SD" group-title="🇸🇳 Сенегал",RTS 3
+http://145.239.5.177/224/index.m3u8
+
+#EXTINF:-1 tvg-id="SenewebTV.sn@SD" group-title="🇸🇳 Сенегал",Seneweb TV [Geo]
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="BTVNews.kh@SD" group-title="🇰🇭 Камбоджа",BTV News
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh@SD" group-title="🇰🇭 Камбоджа",Hang Meas Cine
+http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Азербайджан",AzTV HD
+https://str.yodacdn.net/azertv/index.m3u8
+
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Азербайджан",İctimai TV
+https://live.itv.az/itv.m3u8
+
+#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD" group-title="Азербайджан",Mədəniyyət TV HD
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+
+#EXTINF:-1 tvg-id="XezerTV.az@SD" group-title="Азербайджан",Xəzər TV HD
+https://www.xezerxeber.az/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="BakuTV.az@SD" group-title="Азербайджан",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+
+#EXTINF:-1 tvg-id="CBCSport.az@HD" group-title="Спорт",CBC Sport HD [может быть Geo-blocked]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NaxcivanTV.az@SD" group-title="Азербайджан",Naxçıvan TV HD
+https://str2.yodacdn.net/ntv/video.m3u8
+
+#EXTINF:-1 tvg-id="KanalS.az@SD" group-title="Азербайджан",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+
+#EXTINF:-1 tvg-id="Kanal35.az@SD" group-title="Азербайджан",Kanal 35 HD
+https://str2.yodacdn.net/kanal35/index.m3u8
+
+#EXTINF:-1 tvg-id="APATv.az@SD" group-title="Новости",APA TV HD
+http://stream.apa.tv/apastream/index.m3u8
+
+#EXTINF:-1 tvg-id="AnewZTV.az@SD" group-title="Новости",AnewZ
+https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AyazTV.az@SD" group-title="Азербайджан",Ayaz TV HD
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+
+#EXTINF:-1 tvg-id="ELTV.az@SD" group-title="Региональные",EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KNMusicTV.az@SD" group-title="Музыка",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD" group-title="Азербайджан",AzStar TV HD
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT1.tr@SD" group-title="Основные",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr@SD" group-title="Основные",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr@SD" group-title="Основные",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="Основные",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+
+#EXTINF:-1 tvg-id="NOWTV.tr@SD" group-title="Основные",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr@SD" group-title="Основные",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="A2TV.tr@SD" group-title="Основные",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr@SD" group-title="Основные",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="AHaber.tr@SD" group-title="Новости",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr@SD" group-title="Новости",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-id="TRTHaber.tr@SD" group-title="Новости",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr@SD" group-title="Новости",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr@SD" group-title="Новости",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="Tele1.tr@SD" group-title="Новости",Tele1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Новости",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-id="CNBCe.tr@SD" group-title="Новости",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr@SD" group-title="Новости",Habertürk TV
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="Спорт",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="HTSporTV.tr@SD" group-title="Спорт",HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" group-title="Познавательные",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr@SD" group-title="Детские",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD" group-title="Основные",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Новости",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr@SD" group-title="Музыка",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="KralPopTV.tr@SD" group-title="Музыка",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Музыка",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1TV.tr@SD" group-title="Музыка",Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" group-title="18+ Light",FashionTV Secrets HD
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV
+
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" group-title="18+ Light",FashionTV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" group-title="Sensual / Fashion",FashionTV Paris L'Original HD
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr@HD" group-title="Sensual / Fashion",FashionTV Europe HD
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr@HD" group-title="Backup",FashionTV Europe HD [Backup / Geo]
+https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTV.us" group-title="Late Night / Lifestyle",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTVLatino.us" group-title="Lifestyle / Fashion",Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="LatinAngels" group-title="Sensual / Lifestyle",Latin Angels TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=627f&deviceDNT=0&deviceModel=0
