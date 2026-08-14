@@ -1,10 +1,12 @@
 name: Rebuild IPTV playlist
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
       - '.github/workflows/rebuild-playlist.yml'
+      - 'update_playlist.py'
 
 permissions:
   contents: write
@@ -27,6 +29,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No playlist changes"
           else
-            git commit -m "Expand Azerbaijan, Turkey and sensual channels"
+            git commit -m "Refresh Azerbaijan, Turkey and erotic channels"
             git push
           fi
