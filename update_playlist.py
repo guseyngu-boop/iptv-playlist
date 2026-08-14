@@ -29,18 +29,18 @@ TR_IDS = {
     'TV8.tr@SD','24TV.tr@SD','TVNET.tr@SD','VavTV.tr@SD','ZarokTV.tr@SD'
 }
 
+# Adult/erotic channels with public streams. No pirated premium XXX feeds.
+# The old FashionTV-heavy block is intentionally removed.
 EROTIC = [
-    ('FashionTVSecrets.fr@HD','FashionTV Secrets HD','https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV'),
-    ('FashionTVMidnightSecrets.fr','FashionTV Midnight Secrets','https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8'),
-    ('FashionTVParisLOriginal.fr@SD',"FashionTV Paris L'Original HD",'https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8'),
-    ('FashionTVEurope.fr@HD','FashionTV Europe HD','https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8'),
-    ('MiamiTV.us','Miami TV','https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8'),
-    ('MiamiTVLatino.us','Miami TV Latino','https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8'),
+    ('VisitXTV.de@SD','VISIT-X TV (18+)','https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8'),
+    ('MiamiTVJennyLive.us@SD','Miami TV Jenny Live (18+)','https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8'),
+    ('MiamiTVMexico.us@SD','Miami TV México / Jenny (18+)','https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8'),
+    ('MiamiTVLatino.us@SD','Miami TV Latino (18+)','https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8'),
 ]
 
 OLD_EROTIC_GROUPS = {
     '18+ Light','Sensual / Fashion','Backup','Late Night / Lifestyle',
-    'Lifestyle / Fashion','Sensual / Lifestyle','🔞 Эротика / Sensual'
+    'Lifestyle / Fashion','Sensual / Lifestyle','🔞 Эротика / Sensual','🔞 Эротика'
 }
 
 
@@ -139,8 +139,8 @@ for b in tr_candidates:
         best_tr[tvg] = b
 tr_entries = [regroup(best_tr[k], '🇹🇷 Турция') for k in sorted(best_tr)]
 
-# Legal sensual / erotic, no pirated explicit XXX channels.
-er_entries = [[f'#EXTINF:-1 tvg-id="{tvg}" group-title="🔞 Эротика / Sensual",{name}', url] for tvg,name,url in EROTIC]
+# Erotic 18+ block without FashionTV filler or pirated premium XXX feeds.
+er_entries = [[f'#EXTINF:-1 tvg-id="{tvg}" group-title="🔞 Эротика",{name}', url] for tvg,name,url in EROTIC]
 
 seen = set()
 final = []
@@ -154,7 +154,7 @@ for b in base_entries + az_entries + tr_entries + er_entries:
 header = [
     '#EXTM3U',
     '# MEGA IPTV FINAL 2026',
-    '# WORLD ULTRA + расширенные Азербайджан + Турция + Эротика / Sensual',
+    '# WORLD ULTRA + расширенные Азербайджан + Турция + Эротика 18+',
     '# Обновлено: 2026-08-14',
     '# Точные дубли потоков удалены по URL.',
     '# Некоторые каналы могут иметь Geo-ограничения или временно менять адрес.',
