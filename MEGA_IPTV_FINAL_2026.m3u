@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # MEGA IPTV FINAL 2026
-# WORLD ULTRA + расширенные Азербайджан + Турция + Эротика / Sensual
+# WORLD ULTRA + расширенные Азербайджан + Турция + Эротика 18+
 # Обновлено: 2026-08-14
 # Точные дубли потоков удалены по URL.
 # Некоторые каналы могут иметь Geo-ограничения или временно менять адрес.
@@ -1896,6 +1896,9 @@ http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" group-title="Азербайджан",AzStar TV HD
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sat7Turk.cy@SD" group-title="🇹🇷 Турция",Sat7 Türk (1080p)
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="APATv.az@SD" group-title="🇦🇿 Азербайджан",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
 
@@ -2148,9 +2151,6 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QafTV.tr@SD" group-title="🇹🇷 Турция",Qaf TV (1080p)
 https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="Sat7Turk.cy@SD" group-title="🇹🇷 Турция",Sat7 Türk (1080p)
-https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SemerkandTV.tr@SD" group-title="🇹🇷 Турция",Semerkand TV (1080p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 
@@ -2235,20 +2235,14 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="🇹🇷 Турция",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" group-title="🔞 Эротика / Sensual",FashionTV Secrets HD
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV
+#EXTINF:-1 tvg-id="VisitXTV.de@SD" group-title="🔞 Эротика",VISIT-X TV (18+)
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" group-title="🔞 Эротика / Sensual",FashionTV Midnight Secrets
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us@SD" group-title="🔞 Эротика",Miami TV Jenny Live (18+)
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" group-title="🔞 Эротика / Sensual",FashionTV Paris L'Original HD
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us@SD" group-title="🔞 Эротика",Miami TV México / Jenny (18+)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVEurope.fr@HD" group-title="🔞 Эротика / Sensual",FashionTV Europe HD
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MiamiTV.us" group-title="🔞 Эротика / Sensual",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MiamiTVLatino.us" group-title="🔞 Эротика / Sensual",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us@SD" group-title="🔞 Эротика",Miami TV Latino (18+)
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
