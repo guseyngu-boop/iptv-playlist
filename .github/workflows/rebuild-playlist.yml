@@ -1,0 +1,32 @@
+name: Rebuild IPTV playlist
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rebuild-playlist.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update playlist
+        run: python update_playlist.py
+
+      - name: Commit updated playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MEGA_IPTV_FINAL_2026.m3u
+          if git diff --cached --quiet; then
+            echo "No playlist changes"
+          else
+            git commit -m "Expand Azerbaijan, Turkey and sensual channels"
+            git push
+          fi
