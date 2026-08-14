@@ -20,8 +20,56 @@ BLOCKED_TR_WORDS = (
     'tivibu spor', 'smart spor', 'eurosport', 'exxen'
 )
 
+# Extra public/free-to-air alternatives. They are still health-checked before inclusion.
 SUPPLEMENTAL_AZ = [
+    ('ATV.az@SD', 'ATV Azərbaycan', 'https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8'),
+    ('ARB.az@SD', 'ARB', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8'),
+    ('ARB24.az@SD', 'ARB 24', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8'),
+    ('ARBGunes.az@SD', 'ARB Günəş', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8'),
+    ('AzerbaijanNews.az@SD', 'Azerbaijan News', 'https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8'),
+    ('AzTV.az@SD', 'AzTV [Alt]', 'https://aztv.live/stream/index.m3u8'),
+    ('BakuTV.az@SD', 'Baku TV [Alt]', 'https://rtmp.baku.tv/live/bakutv_720p.m3u8'),
+    ('BakuTV.az@SD', 'Baku TV [GitHub Alt]', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/baku-tv.m3u8'),
+    ('CBCTV.az@SD', 'CBC Azərbaycan', 'https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8'),
+    ('DunyaTV.az@SD', 'Dünya TV', 'https://stream.ftv.az/live/dunyatv.m3u8'),
+    ('DunyaTV.az@SD', 'Dünya TV [Alt]', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv.m3u8'),
+    ('IctimaiTV.az@SD', 'İctimai TV [Alt]', 'http://109.205.166.68/server124/ictimai_tv/index.m3u8'),
+    ('IdmanTV.az@SD', 'İdman Azərbaycan', 'https://idman.aztv.live/stream/index.m3u8'),
+    ('KanalS.az@SD', 'Kanal S [Alt]', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8'),
+    ('MedeniyyetTV.az@SD', 'Mədəniyyət TV [Alt]', 'https://str.yodacdn.net/medeniyyet/index.m3u8'),
+    ('MTVAzerbaijan.az@SD', 'MTV Azərbaycan', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/mtv-azerbaycan.m3u8'),
+    ('MuganTV.az@SD', 'Muğan TV', 'https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8'),
+    ('NaxcivanTV.az@SD', 'Naxçıvan TV [Alt]', 'http://streams.livetv.az/azerbaijan/nax/playlist.m3u8'),
+    ('QafqazTV.az@SD', 'Qafqaz TV', 'https://str1.yodacdn.net/qafkaz/playlist.m3u8'),
+    ('QebeleTV.az@SD', 'Qəbələ TV', 'https://qebele.tv/live/stream/index.m3u8'),
+    ('RealTV.az@SD', 'REAL TV', 'https://str.yodacdn.net/real/playlist.m3u8'),
+    ('RihatTV.az@SD', 'Rihat TV Azərbaycan', 'http://cdn-rihattvazerbaijan.yayin.com.tr/rihattvazerbaijan/rihattvazerbaijan/playlist.m3u8'),
     ('SpaceTV.az@SD', 'Space TV', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8'),
+    ('SpaceTV.az@SD', 'Space TV [Alt]', 'http://109.205.166.68/server124/space_tv/index.m3u8'),
+    ('TMBAzerbaijan.az@SD', 'TMB Azərbaycan', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-azerbaycan.m3u8'),
+    ('UmidTV.az@SD', 'Ümid TV', 'https://cdn-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/playlist.m3u8'),
+    ('VIPTV.az@SD', 'VIP TV', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8'),
+    ('XezerTV.az@SD', 'Xəzər TV [Alt]', 'https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8'),
+]
+
+SUPPLEMENTAL_TR = [
+    ('ShowTV.tr@HD', 'Show TV HD', 'https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8'),
+    ('CNNTurk.tr@HD', 'CNN Türk HD', 'https://live.duhnet.tv/S2/HLS_LIVE/cnn_turknp/playlist.m3u8'),
+    ('Teve2.tr@HD', 'teve2 HD', 'https://demiroren-live.daioncdn.net/teve2/teve2.m3u8'),
+    ('Teve2.tr@HD', 'teve2 HD [Alt]', 'https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8'),
+    ('ASpor.tr@HD', 'A Spor HD [Alt]', 'https://trkvz-live.daioncdn.net/aspor/aspor.m3u8'),
+    ('BeyazTV.tr@HD', 'Beyaz TV HD [Alt]', 'https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8'),
+    ('Kanal7.tr@HD', 'Kanal 7 HD [Alt]', 'https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8'),
+    ('Kanal7.tr@HD', 'Kanal 7 FHD [Alt 2]', 'https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8'),
+    ('NOWTV.tr@HD', 'NOW TV [HTTP Alt]', 'http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8'),
+    ('TRTSpor.tr@HD', 'TRT Spor', 'https://tv-trtspor.live.trt.com.tr/master.m3u8'),
+    ('TRTBelgesel.tr@HD', 'TRT Belgesel [Alt]', 'https://tv-trtbelgesel.live.trt.com.tr/master.m3u8'),
+    ('UlkeTV.tr@HD', 'Ülke TV [Alt]', 'https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8'),
+    ('Number1Turk.tr@HD', 'Number 1 Türk', 'https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8'),
+    ('SportsTV.tr@HD', 'Sports TV', 'https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8'),
+    ('TarimTV.tr@HD', 'Tarım TV HD', 'https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8'),
+    ('TGRTEU.tr@SD', 'TGRT EU', 'https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8'),
+    ('TGRTBelgesel.tr@SD', 'TGRT Belgesel [Alt]', 'https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8'),
 ]
 
 
@@ -86,7 +134,7 @@ def score(block):
     if '[not 24/7]' not in e: s += 4
     if '2160p' in e: s += 5
     elif '1440p' in e: s += 4
-    elif '1080p' in e: s += 3
+    elif '1080p' in e or '@hd' in e: s += 3
     elif '720p' in e: s += 2
     elif '576p' in e: s += 1
     return s
@@ -144,7 +192,6 @@ def probe_manifest(url, block, depth=0):
             return True, f'HLS media OK ({st})'
         return False, f'media HTTP {st}'
     except HTTPError as e:
-        # Some CDNs reject Range while the stream itself is fine. Retry a tiny normal GET.
         if e.code in (400, 403, 416):
             try:
                 st, seg, ct, _ = fetch_probe(child, block, None, 4096)
@@ -204,8 +251,7 @@ def choose_working(blocks, country):
         vals = sorted(vals, key=score, reverse=True)
         alive = [b for b in vals if results.get(id(b), (False, ''))[0]]
         if alive:
-            best = alive[0]
-            chosen.append(best)
+            chosen.append(alive[0])
         else:
             failed.append((name_of(vals[0]), '; '.join(sorted({results.get(id(b), (False, 'unknown'))[1] for b in vals}))))
     chosen.sort(key=lambda b: name_of(b).lower())
@@ -225,6 +271,8 @@ az_source = parse(get_text(AZ_SOURCE))
 for tvg, name, url in SUPPLEMENTAL_AZ:
     az_source.append([f'#EXTINF:-1 tvg-id="{tvg}",{name}', url])
 tr_source = parse(get_text(TR_SOURCE))
+for tvg, name, url in SUPPLEMENTAL_TR:
+    tr_source.append([f'#EXTINF:-1 tvg-id="{tvg}",{name}', url])
 
 az_ok, az_failed, az_tested = choose_working(az_source, 'AZ')
 tr_ok, tr_failed, tr_tested = choose_working(tr_source, 'TR')
