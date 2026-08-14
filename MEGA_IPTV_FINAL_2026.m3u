@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # MEGA IPTV FINAL 2026
-# WORLD ULTRA + расширенные Азербайджан + Турция + Эротика 18+
+# WORLD ULTRA + расширенные Азербайджан + Турция + NUDE 18+
 # Обновлено: 2026-08-14
 # Точные дубли потоков удалены по URL.
 # Некоторые каналы могут иметь Geo-ограничения или временно менять адрес.
@@ -2235,14 +2235,17 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="🇹🇷 Турция",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="VisitXTV.de@SD" group-title="🔞 Эротика",VISIT-X TV (18+)
-https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us@SD" group-title="🔞 NUDE 18+",Miami TV Nude 18+
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MiamiTVJennyLive.us@SD" group-title="🔞 Эротика",Miami TV Jenny Live (18+)
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us@SD" group-title="🔞 NUDE 18+",Miami TV Jenny Live Nude 18+
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MiamiTVMexico.us@SD" group-title="🔞 Эротика",Miami TV México / Jenny (18+)
+#EXTINF:-1 tvg-id="MiamiTVMexico.us@SD" group-title="🔞 NUDE 18+",Miami TV Mexico Nude 18+
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MiamiTVLatino.us@SD" group-title="🔞 Эротика",Miami TV Latino (18+)
+#EXTINF:-1 tvg-id="MiamiTVLatino.us@HD" group-title="🔞 NUDE 18+",Miami TV Latino Nude 18+
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTVLatinoBackup.us@HD" group-title="🔞 NUDE 18+",Miami TV Latino Nude 18+ [Backup]
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
