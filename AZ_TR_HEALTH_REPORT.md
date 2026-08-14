@@ -1,0 +1,191 @@
+# Azerbaijan & Turkey IPTV health report
+
+Checked: 2026-08-14 16:30 UTC
+
+- Azerbaijan candidates tested: **22**
+- Azerbaijan working channels selected: **11**
+- Turkey candidates tested: **189**
+- Turkey working channels selected: **133**
+
+## Azerbaijan channels selected
+- Alvin Channel TV (360p) [Not 24/7]
+- APA Tv (1080p)
+- Ayaz TV (720p)
+- Az TV
+- Azstar TV HD (1080p)
+- EL TV (260p) [Not 24/7]
+- Kanal S
+- Kapaz TV
+- KN Music TV
+- Vilayet TV
+- Xezer TV (720p)
+
+## Turkey channels selected
+- 360 TV (720p) [Not 24/7]
+- 4U TV (720p)
+- A Haber (1080p)
+- A2TV (1080p)
+- Afroturk TV (1080p)
+- Aksu TV (720p)
+- Al-Zahra TV Turkic (720p) [Not 24/7]
+- Alanya Posta TV (1080p)
+- Almahriah TV (576p)
+- Altas TV (1080p)
+- Anadolu Net TV (1080p)
+- ARAS TV (576p) [Not 24/7]
+- ATV (1080p)
+- ATV Alanya (1080p)
+- BENGÜTÜRK TV (720p) [Not 24/7]
+- Bir TV (720p)
+- Bloomberg HT (720p) [Not 24/7]
+- BRTV (720p) [Geo-blocked]
+- Bursa AS TV (900p)
+- Cay TV (720p)
+- CNBC-e
+- Deniz Postası TV (720p) [Not 24/7]
+- DHA (720p) [Not 24/7]
+- Diyanet TV (1080p)
+- Diyar TV (720p)
+- Dost TV (576p)
+- Dream Türk (720p)
+- Edessa TV (1080p)
+- Er TV (1080p) [Geo-blocked]
+- Erzurum Web TV (720p)
+- ES TV (720p)
+- ETV Kayseri (720p)
+- ETV Manisa (1080p) [Not 24/7]
+- Euro D (720p)
+- Finans Turk TV (720p)
+- Flash Haber TV
+- Fortuna TV (1080p)
+- Fortuna TV (720p)
+- Guneydogu TV (720p)
+- GZT (1080p)
+- Haber Global (720p) [Not 24/7]
+- Haber61 TV (720p) [Not 24/7]
+- Habertürk TV (720p) [Not 24/7]
+- Halk TV (1080p)
+- HTSpor TV (1080p)
+- Hunat TV (720p) [Geo-blocked]
+- Icel TV (720p) [Not 24/7]
+- Ilke TV (1080p)
+- Kanal 12 (720p)
+- Kanal 15 (720p) [Not 24/7]
+- Kanal 23 (1080p)
+- Kanal 26 (720p) [Not 24/7]
+- Kanal 3 (1080p) [Not 24/7]
+- Kanal 32 (720p) [Not 24/7]
+- Kanal 33 (720p) [Not 24/7]
+- KANAL 58 (720p) [Not 24/7]
+- Kanal 7 Avrupa (720p) [Not 24/7]
+- Kanal D (1080p)
+- Kanal D Drama (1080p)
+- Kanal Firat (720p) [Not 24/7]
+- Kanal Hayat (1080p)
+- Kanal V (720p) [Not 24/7]
+- Kay TV (576p) [Geo-blocked]
+- Kent Türk TV (1080p) [Not 24/7]
+- Kocaeli TV (1080p)
+- Konya Olay TV (720p)
+- Lalegul TV (1080p)
+- Life TV (720p) [Not 24/7]
+- Line TV (720p) [Not 24/7]
+- Luys TV (1080p)
+- MaviKaradeniz (1080p) [Not 24/7]
+- Med Muzik (1080p)
+- Mekameleen TV (1080p)
+- Meltem TV (1080p)
+- Mercan TV (576p) [Not 24/7]
+- Minika Cocuk (720p)
+- Minika Go (720p)
+- MTürk TV (1080p)
+- Natural TV (720p) [Not 24/7]
+- NTV
+- Number 1 Ask (720p)
+- Number 1 Damar (720p)
+- Number 1 Dance (720p)
+- Number 1 TV (720p)
+- Olay Türk TV Kayseri (720p) [Geo-blocked]
+- On4 TV (1080p)
+- Power Dance (1080p)
+- Power Love (1080p)
+- Power TV (1080p)
+- Power Türk Akustik (1080p)
+- Power Türk Slow (1080p)
+- Power Türk Taptaze (1080p)
+- PowerTürk TV (720p)
+- Sat7 Türk (1080p)
+- Satranç TV (480p) [Not 24/7]
+- Semerkand TV (1080p) [Not 24/7]
+- Sercem TV (1080p)
+- Star TV (720p)
+- Sun RTV (720p) [Not 24/7]
+- TBMM TV (720p)
+- Tele 1 (1080p)
+- Tempo TV (720p)
+- TGRT Haber (720p)
+- Tivi 6 (720p)
+- TJK TV (1080p)
+- Ton TV (720p) [Not 24/7]
+- TRT 1 (1440p)
+- TRT Arabi (1080p) [Not 24/7]
+- TRT Avaz (720p)
+- TRT Cocuk (1440p)
+- TRT Diyanet Çocuk (720p)
+- TRT EBA Ortaokul (720p)
+- TRT Haber (720p)
+- TRT Kurdî (720p)
+- TRT Müzik (720p)
+- TRT Türk (720p)
+- TRT World (1080p) [Not 24/7]
+- TV 1 (720p)
+- TV 100
+- TV 24 (720p)
+- TV 264 (1080p)
+- TV 41 (720p) [Not 24/7]
+- TV 52 (720p) [Not 24/7]
+- TV 8 (1080p)
+- TV Den (576p) [Not 24/7]
+- TV4 (720p)
+- TVNET (1080p)
+- TürkHaber (720p)
+- Urfa Natik TV (720p)
+- Van 65 TV
+- Vav TV
+- Zarok TV (720p)
+- Çiftçi TV (720p) [Not 24/7]
+
+## Failed Azerbaijan channels at check time
+- AnewZ: URL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '53be5ef2d13aa.streamlock.net'. (_ssl.c:1000)
+- Baku.TV: HTTP 403
+- CBC Sport HD [Geo-blocked]: RemoteDisconnected
+- Ictimai TV: URL error: timed out
+- Kanal 35 (720p): HTTP 404
+- Medeniyyet TV (1080p): media HTTP 404
+- Naxcivan TV (720p): media HTTP 404
+- Space TV: HTTP 404
+
+## Failed Turkey channels at check time
+- A Spor (1080p): timeout
+- Beyaz TV (720p) [Not 24/7]: RemoteDisconnected
+- Bursa TV (720p) [Not 24/7]: HTTP 404
+- Cekmeköy TV (1080p): URL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cdn-cekmekoybeltv.yayin.com.tr'. (_ssl.c:1000)
+- FB TV: not a valid HLS manifest
+- Kanal 7 (720p): URL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kanal7.blutv.com'. (_ssl.c:1000); media HTTP 401
+- Kanal 34 (720p) [Not 24/7]: URL error: [Errno -2] Name or service not known
+- KRAL Pop TV (720p): HTTP 403
+- NOW TV (720p): URL error: timed out; timeout
+- Qaf TV (1080p): HTTP 204
+- TGRT Belgesel TV (576p) [Not 24/7]: HTTP 404
+- TJK TV 2 (1080p) [Not 24/7]: HTTP 401
+- Torba TV (720p) [Not 24/7]: URL error: timed out
+- TRT 2 (1440p) [Geo-blocked]: HTTP 403
+- TRT 3 (720p): HTTP 404
+- TRT Belgesel (720p): HTTP 403
+- TRT EBA Ilkokul (720p): media HTTP 404
+- TRT EBA Lise (720p): media HTTP 404
+- TRT Spor Yildiz (1440p) [Geo-blocked]: media HTTPError
+- TV 42: URL error: timed out
+- Ulke TV: HTTP 403
+
+> A stream can pass this server-side check and still be geo-blocked or ISP-blocked for a specific viewer. Conversely, a geo-limited stream can fail from the GitHub runner but work locally.
