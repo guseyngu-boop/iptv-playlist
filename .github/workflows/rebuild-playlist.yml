@@ -8,6 +8,7 @@ on:
       - '.github/workflows/rebuild-playlist.yml'
       - 'update_playlist.py'
       - 'refresh_adult.py'
+      - 'refresh_cinema.py'
 
 permissions:
   contents: write
@@ -23,6 +24,7 @@ jobs:
         run: |
           python update_playlist.py
           python refresh_adult.py
+          python refresh_cinema.py
 
       - name: Commit updated playlist
         run: |
@@ -32,6 +34,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No playlist changes"
           else
-            git commit -m "Refresh Azerbaijan, Turkey and nude adult channels"
+            git commit -m "Refresh Azerbaijan, Turkey, adult and Russian cinema groups"
             git push
           fi
