@@ -2249,3 +2249,27 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MiamiTVLatinoBackup.us@HD" group-title="🔞 NUDE 18+",Miami TV Latino Nude 18+ [Backup]
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru@HD" group-title="🎬 Кино/сериалы RU • Бесплатные",Россия-К / Культура HD
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru@HD" group-title="🎬 Кино/сериалы RU • Бесплатные",НТВ HD — сериалы и кино
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" group-title="🎬 Кино/сериалы RU • Бесплатные",Москва Доверие — советское кино
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru@HD" group-title="🎬 Кино/сериалы RU • Бесплатные",Звезда HD — военное и историческое кино
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="🎬 Кино/сериалы RU • Бесплатные",ТВ Центр — кино и сериалы
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru@HD" group-title="🎬 Кино/сериалы RU • Бесплатные",МИР HD — кино и сериалы
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedLine.ru@SD" group-title="🎬 Кино/сериалы RU • Бесплатные",Красная линия — советское кино
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="🎬 Кино/сериалы RU • Бесплатные",Солнце — семейное кино
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
