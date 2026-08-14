@@ -7,6 +7,7 @@ on:
     paths:
       - '.github/workflows/rebuild-playlist.yml'
       - 'update_playlist.py'
+      - 'refresh_az_tr.py'
       - 'refresh_adult.py'
       - 'refresh_cinema.py'
 
@@ -16,24 +17,26 @@ permissions:
 jobs:
   rebuild:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update playlist
+      - name: Rebuild and test playlist
         run: |
           python update_playlist.py
+          python refresh_az_tr.py
           python refresh_adult.py
           python refresh_cinema.py
 
-      - name: Commit updated playlist
+      - name: Commit updated playlist and health report
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add MEGA_IPTV_FINAL_2026.m3u
+          git add MEGA_IPTV_FINAL_2026.m3u AZ_TR_HEALTH_REPORT.md
           if git diff --cached --quiet; then
             echo "No playlist changes"
           else
-            git commit -m "Refresh Azerbaijan, Turkey, adult and Russian cinema groups"
+            git commit -m "Refresh and verify Azerbaijan and Turkey channels"
             git push
           fi
