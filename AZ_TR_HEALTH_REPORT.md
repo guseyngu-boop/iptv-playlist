@@ -1,22 +1,22 @@
 # Azerbaijan & Turkey IPTV health report
 
-Checked: 2026-08-14 16:30 UTC
+Checked: 2026-08-14 16:34 UTC
 
-- Azerbaijan candidates tested: **22**
+- Azerbaijan candidates tested: **49**
 - Azerbaijan working channels selected: **11**
-- Turkey candidates tested: **189**
-- Turkey working channels selected: **133**
+- Turkey candidates tested: **206**
+- Turkey working channels selected: **135**
 
 ## Azerbaijan channels selected
 - Alvin Channel TV (360p) [Not 24/7]
-- APA Tv (1080p)
 - Ayaz TV (720p)
-- Az TV
+- Az TV (1080p)
 - Azstar TV HD (1080p)
 - EL TV (260p) [Not 24/7]
 - Kanal S
 - Kapaz TV
 - KN Music TV
+- Naxcivan TV (720p)
 - Vilayet TV
 - Xezer TV (720p)
 
@@ -24,6 +24,7 @@ Checked: 2026-08-14 16:30 UTC
 - 360 TV (720p) [Not 24/7]
 - 4U TV (720p)
 - A Haber (1080p)
+- A Spor (1080p)
 - A2TV (1080p)
 - Afroturk TV (1080p)
 - Aksu TV (720p)
@@ -36,6 +37,7 @@ Checked: 2026-08-14 16:30 UTC
 - ATV (1080p)
 - ATV Alanya (1080p)
 - BENGÜTÜRK TV (720p) [Not 24/7]
+- Beyaz TV HD [Alt]
 - Bir TV (720p)
 - Bloomberg HT (720p) [Not 24/7]
 - BRTV (720p) [Geo-blocked]
@@ -94,7 +96,6 @@ Checked: 2026-08-14 16:30 UTC
 - MaviKaradeniz (1080p) [Not 24/7]
 - Med Muzik (1080p)
 - Mekameleen TV (1080p)
-- Meltem TV (1080p)
 - Mercan TV (576p) [Not 24/7]
 - Minika Cocuk (720p)
 - Minika Go (720p)
@@ -123,6 +124,7 @@ Checked: 2026-08-14 16:30 UTC
 - TBMM TV (720p)
 - Tele 1 (1080p)
 - Tempo TV (720p)
+- teve2 HD [Alt]
 - TGRT Haber (720p)
 - Tivi 6 (720p)
 - TJK TV (1080p)
@@ -157,16 +159,32 @@ Checked: 2026-08-14 16:30 UTC
 
 ## Failed Azerbaijan channels at check time
 - AnewZ: URL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '53be5ef2d13aa.streamlock.net'. (_ssl.c:1000)
-- Baku.TV: HTTP 403
+- APA Tv (1080p): media HTTP 404
+- Baku.TV: HTTP 403; HTTP 404
 - CBC Sport HD [Geo-blocked]: RemoteDisconnected
-- Ictimai TV: URL error: timed out
+- Ictimai TV: HTTP 403; URL error: timed out
 - Kanal 35 (720p): HTTP 404
-- Medeniyyet TV (1080p): media HTTP 404
-- Naxcivan TV (720p): media HTTP 404
-- Space TV: HTTP 404
+- Medeniyyet TV (1080p): HTTP 404; media HTTP 404
+- ATV Azərbaycan: URL error: [Errno -2] Name or service not known
+- ARB: HTTP 404
+- ARB 24: HTTP 404
+- ARB Günəş: HTTP 404
+- Azerbaijan News: HTTP 404
+- CBC Azərbaycan: URL error: [Errno -2] Name or service not known
+- Dünya TV: HTTP 404
+- İdman Azərbaycan: URL error: [Errno -2] Name or service not known
+- MTV Azərbaycan: HTTP 404
+- Muğan TV: URL error: [Errno 111] Connection refused
+- Qafqaz TV: HTTP 403
+- Qəbələ TV: HTTP 404
+- REAL TV: HTTP 403
+- Rihat TV Azərbaycan: URL error: [Errno 111] Connection refused
+- Space TV: HTTP 403; HTTP 404
+- TMB Azərbaycan: HTTP 404
+- Ümid TV: URL error: [Errno -5] No address associated with hostname
+- VIP TV: HTTP 404
 
 ## Failed Turkey channels at check time
-- A Spor (1080p): timeout
 - Beyaz TV (720p) [Not 24/7]: RemoteDisconnected
 - Bursa TV (720p) [Not 24/7]: HTTP 404
 - Cekmeköy TV (1080p): URL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cdn-cekmekoybeltv.yayin.com.tr'. (_ssl.c:1000)
@@ -174,9 +192,10 @@ Checked: 2026-08-14 16:30 UTC
 - Kanal 7 (720p): URL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kanal7.blutv.com'. (_ssl.c:1000); media HTTP 401
 - Kanal 34 (720p) [Not 24/7]: URL error: [Errno -2] Name or service not known
 - KRAL Pop TV (720p): HTTP 403
+- Meltem TV (1080p): not a valid HLS manifest
 - NOW TV (720p): URL error: timed out; timeout
 - Qaf TV (1080p): HTTP 204
-- TGRT Belgesel TV (576p) [Not 24/7]: HTTP 404
+- TGRT Belgesel [Alt]: HTTP 404; HTTP 500
 - TJK TV 2 (1080p) [Not 24/7]: HTTP 401
 - Torba TV (720p) [Not 24/7]: URL error: timed out
 - TRT 2 (1440p) [Geo-blocked]: HTTP 403
@@ -187,5 +206,17 @@ Checked: 2026-08-14 16:30 UTC
 - TRT Spor Yildiz (1440p) [Geo-blocked]: media HTTPError
 - TV 42: URL error: timed out
 - Ulke TV: HTTP 403
+- Show TV HD: HTTP 403
+- CNN Türk HD: not a valid HLS manifest
+- A Spor HD [Alt]: HTTP 404
+- Kanal 7 HD [Alt]: URL error: timed out; media HTTP 401
+- NOW TV [HTTP Alt]: timeout
+- TRT Spor: URL error: [Errno -2] Name or service not known
+- TRT Belgesel [Alt]: URL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)
+- Ülke TV [Alt]: RemoteDisconnected
+- Number 1 Türk: RemoteDisconnected
+- Sports TV: URL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'live.sportstv.com.tr'. (_ssl.c:1000)
+- Tarım TV HD: HTTP 403
+- TGRT EU: HTTP 500
 
 > A stream can pass this server-side check and still be geo-blocked or ISP-blocked for a specific viewer. Conversely, a geo-limited stream can fail from the GitHub runner but work locally.

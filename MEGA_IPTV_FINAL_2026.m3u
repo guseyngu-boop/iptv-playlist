@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 # MEGA IPTV FINAL 2026
 # WORLD ULTRA + расширенные Азербайджан + Турция + NUDE 18+
-# Обновлено: 2026-08-14 16:30 UTC
+# Обновлено: 2026-08-14 16:34 UTC
 # AZ/TR потоки проверяются автоматически перед добавлением.
 # Geo-блокировка и ограничения провайдера всё равно могут отличаться на вашем IP.
 
@@ -1899,14 +1899,11 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" group-title="🇦🇿 Азербайджан",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="APATv.az@SD" group-title="🇦🇿 Азербайджан",APA Tv (1080p)
-http://stream.apa.tv/apastream/index.m3u8
-
 #EXTINF:-1 tvg-id="AyazTV.az@SD" group-title="🇦🇿 Азербайджан",Ayaz TV (720p)
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 
-#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="🇦🇿 Азербайджан",Az TV
-https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="🇦🇿 Азербайджан",Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:-1 tvg-id="ELTV.az@SD" group-title="🇦🇿 Азербайджан",EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
@@ -1919,6 +1916,9 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="KNMusicTV.az@SD" group-title="🇦🇿 Азербайджан",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NaxcivanTV.az@SD" group-title="🇦🇿 Азербайджан",Naxcivan TV (720p)
+https://str2.yodacdn.net/ntv/video.m3u8
 
 #EXTINF:-1 tvg-id="VilayetTV.az@SD" group-title="🇦🇿 Азербайджан",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
@@ -1934,6 +1934,9 @@ https://hls.4utv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr@SD" group-title="🇹🇷 Турция",A Haber (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="🇹🇷 Турция",A Spor (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr@SD" group-title="🇹🇷 Турция",A2TV (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
@@ -1970,6 +1973,9 @@ https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" group-title="🇹🇷 Турция",BENGÜTÜRK TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr@HD" group-title="🇹🇷 Турция",Beyaz TV HD [Alt]
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-id="BirTV.tr@SD" group-title="🇹🇷 Турция",Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
@@ -2145,9 +2151,6 @@ http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr@SD" group-title="🇹🇷 Турция",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MeltemTV.tr@SD" group-title="🇹🇷 Турция",Meltem TV (1080p)
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MercanTV.tr@SD" group-title="🇹🇷 Турция",Mercan TV (576p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 
@@ -2231,6 +2234,9 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
 #EXTINF:-1 tvg-id="TempoTV.tr@SD" group-title="🇹🇷 Турция",Tempo TV (720p)
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr@HD" group-title="🇹🇷 Турция",teve2 HD [Alt]
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr@SD" group-title="🇹🇷 Турция",TGRT Haber (720p)
 https://canli.tgrthaber.com/tgrt.m3u8
